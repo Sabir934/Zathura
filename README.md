@@ -15,5 +15,7 @@
 
 <!-- Chages adsense earning home page-->
 
+<h2>This is gaming part</h2>
+
 </body>
 </html>
