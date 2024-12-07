@@ -12,5 +12,8 @@
 <h3>lorem sajaknn </h3>
 
 <h3>lorem sajaknn </h3>
+
+<!-- Chages adsense earning home page-->
+
 </body>
 </html>
