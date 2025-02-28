@@ -1,3 +1,17 @@
-h2{
-    color: aliceblue;
+p{
+
+    color: rgb(106, 12, 199);
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 32pt;
+    text-overflow: inherit;
+
+}    
+
+body{
+
+    background-color: rgb(236, 224, 224);
+    text-align: center;
+
+    
 }
