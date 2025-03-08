@@ -13,7 +13,7 @@
 
 <h3>lorem sajaknn </h3>
 
-<!-- Chages adsense earning home page-->
+<!-- Chages adsense earning home page--->
 
 <h2>This is gaming part</h2>
 
