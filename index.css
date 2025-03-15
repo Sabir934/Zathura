@@ -160,6 +160,13 @@
   p{
     width: 60%;
   }
+
+
+  iframe{
+
+    width: 30%;
+
+  }
   /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
   @media screen and (max-width: 700px) {
     .row {   
@@ -203,13 +210,20 @@
 
     .side{
 
-      position: relative;
+      position: static;
+      width: 100%;
       margin: 0%;
+      
     }
 
     .main{
 
-      margin-left: 0px;
+      margin-left: 0%;
+    }
+
+    iframe{
+
+      display: non;
     }
 
     
@@ -225,10 +239,30 @@
 
 
   
-   
+
     
   }
 
+  @media screen and (max-width:1488px){
+
+    .side{
+
+      margin-top: 70px;
+    }
+
+   
+
+ .ch_main{
+
+
+  margin-left: 8%;
+  margin-top: 10px;
+ }
+
+
+
+ 
+  }
 
 
 
