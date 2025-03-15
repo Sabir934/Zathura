@@ -99,7 +99,7 @@
     background-color: #f1f1f1;
     padding: 20px;
     position: fixed;
-    margin: 80px 0px 90px 0px;    
+    margin: 50px 0px 70px 0px;    
     position: -webkit-sticky;
     overflow: scroll;
 }
@@ -112,8 +112,7 @@
     flex: 70%;
     background-color: #ffffff;
     padding: 20px;
-    margin-left:50%;
-    
+    margin-left: 40%;
 
   }
   .main h2{
@@ -137,10 +136,10 @@
     padding: 10px;
     text-align: center;
     background: black;
-    position: absolute;
     width: 100%;
     word-spacing: 30px;
-    
+    position: fixed;
+    bottom: 0%;
 
   }
 
@@ -229,3 +228,14 @@
    
     
   }
+
+
+
+
+
+
+
+
+
+
+  /* new */
