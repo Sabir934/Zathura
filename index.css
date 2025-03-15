@@ -112,12 +112,13 @@
     flex: 70%;
     background-color: #ffffff;
     padding: 20px;
-    margin-left: 50%;
+    margin-left: 40%;
 
   }
   .main h2{
 
     width: 79%;
+    margin-top: 10%;
   }
   /* Fake image, just for this example */
   .fakeimg {
