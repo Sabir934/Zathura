@@ -155,19 +155,23 @@
     width: 60%;
      height: 25%;
      border-radius: 10px;
+    
      
   }
+
+
   
   p{
     width: 60%;
   }
 
+/*privacy policy page genrate */
 
-  iframe{
+  .p_main{
 
-    width: 30%;
-
+        margin-left: 40%;    
   }
+
   /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
   @media screen and (max-width: 700px) {
     .row {   
@@ -190,6 +194,8 @@
 #web_name{
 
   display: none;
+
+
 
 }
     p{
@@ -224,7 +230,10 @@
       margin-left: 0%;
     }
 
-    
+    .p_main{
+
+      margin-left: 0%;
+    }
   }
 
   
@@ -242,9 +251,6 @@
 
     }
 
-
-
-  
 
     
   }
