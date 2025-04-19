@@ -21,6 +21,7 @@
 
 
   }
+
   
   /* Style the top navigation bar */
   .navbar {
@@ -80,7 +81,9 @@
     
 
   }
-  
+  /*Hover Not
+*/
+
   /* Column container */
   .row {  
     display: -ms-flexbox; /* IE10 */
@@ -221,7 +224,7 @@
      
     font-size: 150%;
     width: 90%;
-    line-height: 25px;
+    line-height: 150%;
     
     
   }
@@ -236,6 +239,10 @@
     border: 2px solid #8a8181;
     text-align: left;
     padding: 6px;
+  }
+  table td{
+
+    background-color: white;
   }
  /*desktop link side secton*/
  .main-content2{
@@ -254,6 +261,23 @@
      
  }
 
+ .icon{
+
+  width: 2px;
+  height: 2px;
+ }
+
+ 
+ .about{
+
+     width:80%;
+     margin-right: 250%;
+     line-height: 220%;
+ }
+ .s1{
+
+  margin-left: 250%;
+ }
   /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
   @media screen and (max-width: 700px) {
     .row {   
